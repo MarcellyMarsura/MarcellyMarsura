@@ -5,7 +5,7 @@
   **Quer bater um papo? Me envie uma mensagem!**
 <div> 
   <a href="https://www.linkedin.com/in/marcellymarsura" height="30em" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-090c10?style=for-the-badge&logo=linkedin&logoColor=33FFCC" target="_blank"></a>
-  <a href = "mailto:marcellymarsura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-090c10?style=for-the-badge&logo=gmail&logoColor=33FFCC" target="_blank"></a>
+  <a href = "mailto:marcellymarsura@gmail.com"><img src="https://img.shields.io/badge/-marcellymarsura@gmail.com-090c10?style=for-the-badge&logo=gmail&logoColor=33FFCC" target="_blank"></a>
 
   
 ## 💻 Tecnologias
@@ -23,7 +23,7 @@
 
 ## 🚀 GitHub Stats
 ###
-<div align="center" style="display: inline_block">
+<div align="center">
   <a href="https://github.com/MarcellyMarsura">
   <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=MarcellyMarsura&show_icons=true&include_all_commits=true&count_private=true&title_color=33FFCC&icon_color=33FFCC&bg_color=090c10&hide_border=true&text_color=E0E0E0"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcellyMarsura&layout=compact&langs_count=7&title_color=33FFCC&icon_color=33FFCC&bg_color=090c10&hide_border=true&text_color=E0E0E0"/>
