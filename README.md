@@ -1,15 +1,16 @@
   # Olá, eu sou a Marcelly!
 ###
-  Apaixonada por tecnologia, inovação e café. Sou uma estudante de Engenharia de Computação que busca novos desafios.
-
-  **Quer bater um papo? Me envie uma mensagem!**
+  Apaixonada por tecnologia, inovação e café ☕.
+ ### **Quer bater um papo? Me envie uma mensagem!**
 <div> 
+   <a href = "https://t.me/MarcellyMarsura"><img src="https://img.shields.io/badge/Telegram-090c10?style=for-the-badge&logo=telegram&logoColor=33FFCC" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcellymarsura" height="30em" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-090c10?style=for-the-badge&logo=linkedin&logoColor=33FFCC" target="_blank"></a>
   <a href = "mailto:marcellymarsura@gmail.com"><img src="https://img.shields.io/badge/-marcellymarsura@gmail.com-090c10?style=for-the-badge&logo=gmail&logoColor=33FFCC" target="_blank"></a>
+  </div>
 
-  
+
 ## 💻 Tecnologias
-  <div style="display: inline_block"><br>
+  <div align="center" style="display: inline_block"><br>
     <a href="https://github.com/MarcellyMarsura">
     <img align="center" alt=".net" height="30em" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
     <img align="center" alt="cs" height="30em" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -24,7 +25,7 @@
 ## 🚀 GitHub Stats
 ###
 <div align="center">
-  <a href="https://github.com/MarcellyMarsura">
   <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=MarcellyMarsura&show_icons=true&include_all_commits=true&count_private=true&title_color=33FFCC&icon_color=33FFCC&bg_color=090c10&hide_border=true&text_color=E0E0E0"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcellyMarsura&layout=compact&langs_count=7&title_color=33FFCC&icon_color=33FFCC&bg_color=090c10&hide_border=true&text_color=E0E0E0"/>
 </div>
+  
